@@ -1,0 +1,22 @@
+{
+  "name": "miniont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahithiSiripuram/miniontranslate.git"
+  },
+  "author": "Sahithi Siripuram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahithiSiripuram/miniontranslate/issues"
+  },
+  "homepage": "https://github.com/SahithiSiripuram/miniontranslate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
