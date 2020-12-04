@@ -1,3 +1,26 @@
-body{
-    background-image: ".\resources\Yellow Blue Pink White Fun Kid Virtual Trivia Quiz Mobile-First Website.png";
+*{
+    background-color: #fce029;
+    text-align: center;
+}
+.fontn{
+    font-family: Nerko One;
+    text-align: center;
+    padding-top: 2%;
+    color: #0a75bc;
+}
+.btncolor{
+    background-color: #0a75bc;
+    color: #ffffff;
+}
+.form-group{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#inputTxt{
+    text-align: left;
+    margin-bottom: 2%;
+}
+#outputTxt{
+    text-align: left;
+    margin-top: 2%;
 }
